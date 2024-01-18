@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Data Analytics and Business Intelligence**
 
-- 📫 How to reach me **jaime.robledo@gmail.com**
+- 📫 How to reach me **jaime.robledo@aiadadvisor.ai**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/kngnyc2mia" target="blank"><img src="https://img.shields.io/twitter/follow/kngnyc2mia?logo=twitter&style=for-the-badge" alt="kngnyc2mia" /></a> </p>
 
-- 💬 Ask me about **Data Analytics and Business Intelligence**
+- 💬 Ask me about **Data Analytics Business Intelligence Web app Development**
 
-- 📫 How to reach me **jaime.robledo@aiadadvisor.ai**
+- 📫 How to reach me **jaime.robledo@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

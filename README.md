@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **Data Analytics Business Intelligence Web app Development**
 
-- 📫 How to reach me **jaime.robledo@outlook.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kngnyc2mia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kngnyc2mia" height="30" width="40" /></a>

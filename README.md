@@ -1,6 +1,6 @@
 [![MasterHead](https://www.stratada.com/wp-content/uploads/2020/04/webcast-report-banner-2.gif)](https://JaimeRobledo.io)
 <h1 align="center">Hola 👋, I'm Jaime Robledo</h1>
-<h3 align="center">A passionate data analytics and business intelligence App Development and AI</h3>
+<h3 align="center">A passionate data analytics, business intelligence, App Development and AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimerobledo-data&label=Profile%20views&color=0e75b6&style=flat" alt="jaimerobledo-data" /> </p>
 
